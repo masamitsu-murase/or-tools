@@ -36,7 +36,7 @@ BUILD_TYPE ?= Release
 USE_COINOR ?= ON
 USE_GLPK ?= OFF
 USE_PDLP := ON # OFF not supported
-USE_SCIP ?= ON
+USE_SCIP ?= OFF
 USE_CPLEX ?= OFF
 USE_XPRESS ?= OFF
 
