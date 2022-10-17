@@ -21,7 +21,7 @@ endif
 # Checks if the user has overwritten default libraries and binaries.
 BUILD_TYPE ?= Release
 USE_COINOR ?= ON
-USE_SCIP ?= ON
+USE_SCIP ?= OFF
 USE_GLPK ?= OFF
 USE_CPLEX ?= OFF
 USE_XPRESS ?= OFF
